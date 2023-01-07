@@ -3,6 +3,6 @@ Practicing Python programming is important for a number of reasons. First, it he
 
 In addition to helping you to improve your skills and knowledge, practicing Python programming can also be fun. It can be rewarding to see your code work correctly and to see the results of your efforts. Practicing also gives you the opportunity to try out new ideas and to experiment with different approaches to solving problems.
 
-Here is the list of python questions to practice and imporve your skill set. Happy Learning!!!
+Here is the list of python questions to practice and imporve your skills set. Happy Learning!!!
 
 
